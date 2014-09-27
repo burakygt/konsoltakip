@@ -29,3 +29,17 @@ C:\Users\Burak\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\Konsol
 C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.WinForm.exe.config
 C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.exe
 C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.pdb
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.WinForm.exe.config
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.exe
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.pdb
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.WinForm.exe
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.WinForm.pdb
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.ORM.dll
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.ORM.pdb
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.AcilisForm.resources
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.BorcForm.resources
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.Form1.resources
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.Properties.Resources.resources
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.TarifeAyarlar.resources
+C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.csproj.GenerateResource.Cache
