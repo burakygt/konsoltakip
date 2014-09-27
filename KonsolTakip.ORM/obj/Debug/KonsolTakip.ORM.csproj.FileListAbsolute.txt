@@ -1,0 +1,5 @@
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.ORM\bin\Debug\KonsolTakip.ORM.dll
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.ORM\bin\Debug\KonsolTakip.ORM.pdb
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.ORM\obj\Debug\KonsolTakip.ORM.csprojResolveAssemblyReference.cache
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.ORM\obj\Debug\KonsolTakip.ORM.dll
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.ORM\obj\Debug\KonsolTakip.ORM.pdb

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{640CA3BA-6A8A-4FEF-9B67-A9A14D4CF2EC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KonsolTakip.ORM</RootNamespace>
+    <AssemblyName>KonsolTakip.ORM</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Araclar.cs" />
+    <Compile Include="Entity\Adisyon.cs" />
+    <Compile Include="Entity\Borc.cs" />
+    <Compile Include="Entity\Envanter.cs" />
+    <Compile Include="Entity\Kiralama.cs" />
+    <Compile Include="Entity\Not.cs" />
+    <Compile Include="Entity\Oturum.cs" />
+    <Compile Include="Entity\SabitUcret.cs" />
+    <Compile Include="Entity\Tamir.cs" />
+    <Compile Include="Entity\Uye.cs" />
+    <Compile Include="Entity\Yonetici.cs" />
+    <Compile Include="Facade\Adisyonlar.cs" />
+    <Compile Include="Facade\Borclar.cs" />
+    <Compile Include="Facade\Envanterler.cs" />
+    <Compile Include="Facade\Kiralamalar.cs" />
+    <Compile Include="Facade\Notlar.cs" />
+    <Compile Include="Facade\Oturumlar.cs" />
+    <Compile Include="Facade\SabitUcretler.cs" />
+    <Compile Include="Facade\Tamirler.cs" />
+    <Compile Include="Facade\Uyeler.cs" />
+    <Compile Include="Facade\Yoneticiler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

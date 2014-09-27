@@ -1,0 +1,14 @@
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.WinForm.exe.config
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.WinForm.exe
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.WinForm.pdb
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.ORM.dll
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.ORM.pdb
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.csprojResolveAssemblyReference.cache
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.BorcForm.resources
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.Form1.resources
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.Properties.Resources.resources
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.csproj.GenerateResource.Cache
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.exe
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.pdb
+c:\users\musanmaz\documents\visual studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.AcilisForm.resources
+C:\Users\musanmaz\Documents\Visual Studio 2012\Projects\KonsolTakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.TarifeAyarlar.resources
