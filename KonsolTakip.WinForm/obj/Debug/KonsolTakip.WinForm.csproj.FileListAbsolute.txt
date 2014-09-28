@@ -26,3 +26,6 @@ C:\Users\Burak\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\Konsol
 C:\Users\Burak\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.Properties.Resources.resources
 C:\Users\Burak\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.TarifeAyarlar.resources
 C:\Users\Burak\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.csproj.GenerateResource.Cache
+C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\bin\Debug\KonsolTakip.WinForm.exe.config
+C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.exe
+C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.pdb
