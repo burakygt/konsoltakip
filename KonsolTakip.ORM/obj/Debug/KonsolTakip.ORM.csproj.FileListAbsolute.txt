@@ -13,3 +13,8 @@ C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.ORM\bin\Debug\KonsolTakip
 C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.ORM\obj\Debug\KonsolTakip.ORM.csprojResolveAssemblyReference.cache
 C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.ORM\obj\Debug\KonsolTakip.ORM.dll
 C:\Users\Bocu\Documents\GitHub\konsoltakip\KonsolTakip.ORM\obj\Debug\KonsolTakip.ORM.pdb
+C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.ORM\bin\Debug\KonsolTakip.ORM.dll
+C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.ORM\bin\Debug\KonsolTakip.ORM.pdb
+C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.ORM\obj\Debug\KonsolTakip.ORM.csprojResolveAssemblyReference.cache
+C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.ORM\obj\Debug\KonsolTakip.ORM.dll
+C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.ORM\obj\Debug\KonsolTakip.ORM.pdb

@@ -44,6 +44,7 @@
     <Compile Include="Entity\Adisyon.cs" />
     <Compile Include="Entity\Borc.cs" />
     <Compile Include="Entity\Envanter.cs" />
+    <Compile Include="Entity\KafeBilgi.cs" />
     <Compile Include="Entity\Kiralama.cs" />
     <Compile Include="Entity\Not.cs" />
     <Compile Include="Entity\Oturum.cs" />
@@ -54,6 +55,7 @@
     <Compile Include="Facade\Adisyonlar.cs" />
     <Compile Include="Facade\Borclar.cs" />
     <Compile Include="Facade\Envanterler.cs" />
+    <Compile Include="Facade\KafeBilgiler.cs" />
     <Compile Include="Facade\Kiralamalar.cs" />
     <Compile Include="Facade\Notlar.cs" />
     <Compile Include="Facade\Oturumlar.cs" />

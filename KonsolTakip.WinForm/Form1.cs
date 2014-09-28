@@ -68,7 +68,7 @@ namespace KonsolTakip.WinForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            TarifeAyarlar tform = new TarifeAyarlar();
+            MasaAcForm tform = new MasaAcForm();
             tform.Show();
         }
 

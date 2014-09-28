@@ -24,7 +24,7 @@ namespace KonsolTakip.ORM.Facade
             komut.CommandType = CommandType.StoredProcedure;
             komut.Parameters.AddWithValue("@MasaId", entity.MasaId);
             komut.Parameters.AddWithValue("@BaslangicSaati", entity.BaslangicSaati);
-            komut.Parameters.AddWithValue("@MasaTutari", entity.MasaTutari);
+      //      komut.Parameters.AddWithValue("@MasaTutari", entity.MasaTutari);
             komut.Parameters.AddWithValue("@kolSayisi", entity.KolSayisi);
             return Araclar.komut_calisma(komut);
         }
@@ -69,6 +69,32 @@ namespace KonsolTakip.ORM.Facade
         //    komut.CommandType = CommandType.StoredProcedure;
         //    komut.Parameters.AddWithValue("@adisyonid",entity.id);
         //}
+
+        public static void oturumOlustur(int masaid) { 
+          Oturum entity = new Oturum();
+            DateTime saat = DateTime.Now;
+//            string suan = 
+            entity.MasaId = masaid;
+            entity.BaslangicSaati = DateTime.Now.ToString("HH:mm:ss tt");
+//            entity.MasaTutari = float.Parse(dataGridView1.Rows[0].Cells["dk15"].Value.ToString());
+            entity.KolSayisi = 1;
+            if (!Oturumlar.OturumEkle(entity)) { 
+            
+            }
+              
+        }
+        public static bool SureliAc(Oturum entity) {
+            SqlCommand komut = new SqlCommand("SureliAc", Araclar.Baglanti);
+            komut.CommandType = CommandType.StoredProcedure;
+            komut.Parameters.AddWithValue("@MasaId", entity.MasaId);
+            komut.Parameters.AddWithValue("@Baslangic", entity.BaslangicSaati);
+            komut.Parameters.AddWithValue("@Bitis", entity.BitisSaati);
+            komut.Parameters.AddWithValue("@OturumTutari", entity.MasaTutari);
+            komut.Parameters.AddWithValue("@KolSayisi", entity.KolSayisi);
+
+            return Araclar.komut_calisma(komut);
+
+        }
 
     }
 }

@@ -81,11 +81,23 @@
     <Compile Include="KiralamaForm.Designer.cs">
       <DependentUpon>KiralamaForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="MasaAcForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasaAcForm.Designer.cs">
+      <DependentUpon>MasaAcForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="NotForm.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="NotForm.Designer.cs">
       <DependentUpon>NotForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OturumTuruSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OturumTuruSec.Designer.cs">
+      <DependentUpon>OturumTuruSec.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -116,6 +128,12 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MasaAcForm.resx">
+      <DependentUpon>MasaAcForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OturumTuruSec.resx">
+      <DependentUpon>OturumTuruSec.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -124,6 +142,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="TarifeAyarlar.resx">
       <DependentUpon>TarifeAyarlar.cs</DependentUpon>
@@ -146,6 +165,9 @@
       <Project>{640ca3ba-6a8a-4fef-9b67-a9a14d4cf2ec}</Project>
       <Name>KonsolTakip.ORM</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\playstation_3_icon.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
