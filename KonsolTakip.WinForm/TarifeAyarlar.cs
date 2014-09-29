@@ -63,6 +63,7 @@ namespace KonsolTakip.WinForm
         {
             dataGridView1.DataSource = SabitUcretler.Listele();
             dataGridView2.DataSource = Oturumlar.Listele();
+        //    gridControl1.DataSource = Oturumlar.Listele().DataSet.
 
         }
 

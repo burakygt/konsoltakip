@@ -72,5 +72,11 @@ namespace KonsolTakip.WinForm
             tform.Show();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            TarifeAyarlar tarife = new TarifeAyarlar();
+            tarife.Show();
+        }
+
     }
 }

@@ -56,3 +56,4 @@ C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\Kon
 C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.TarifeAyarlar.resources
 C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.csproj.GenerateResource.Cache
 C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.OturumTuruSec.resources
+C:\Users\musanmaz\Documents\GitHub\konsoltakip\KonsolTakip.WinForm\obj\Debug\KonsolTakip.WinForm.exe.licenses

@@ -43,6 +43,7 @@ namespace KonsolTakip.ORM
             SqlDataAdapter adp = new SqlDataAdapter(procedureAdi, Araclar.Baglanti);
             adp.SelectCommand.CommandType = CommandType.StoredProcedure;
             DataTable dt = new DataTable();
+         
             adp.Fill(dt);
             return dt;
 
